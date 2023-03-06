@@ -11,8 +11,15 @@
 </div>
 
 ## <img src="https://user-images.githubusercontent.com/13218725/223164247-723e8ec1-909e-4045-a06e-6efd811dec5b.gif" width="36"/> About me:
-- 📱 Android developer creating apps out of nothing writing clean readable Code, creative and attentive to details.
-- ➕ I know some [React Native](https://www.linkedin.com/posts/omar-hezi_im-happy-to-share-that-ive-obtained-a-new-activity-6978760134516703234-57T6?utm_source=share&utm_medium=member_desktop) and Python too!
+- 📱 Android developer creating apps out of nothing writing clean readable Code, creative and attentive to details. I worked on:
+  - The Official 2022 Olympics Android App
+  - Venmo/PayPal Android App
+  - Starbucks UK Android App
+  - Avianca Android App
+  - WiFiesta Android App & iOS App
+  - <a href="altabev.com">altabev.com</a>
+      
+- ➕ I know some [React Native](https://www.linkedin.com/posts/omar-hezi_im-happy-to-share-that-ive-obtained-a-new-activity-6978760134516703234-57T6?utm_source=share&utm_medium=member_desktop) and Python too.
 - 🦦 I like Football and playing [Piano](https://youtu.be/aNIs139af-4?t=177).
 
 ## <img src="https://user-images.githubusercontent.com/13218725/223165807-a02279c8-0719-4456-bc2e-1c136aacc369.gif" width="36"/> My Stats:
